@@ -1,6 +1,6 @@
 {
   "name": "create-spat-app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "create-spat-app",
   "bin": "cli.js",
   "scripts": {
