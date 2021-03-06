@@ -1,0 +1,19 @@
+{
+  "name": "create-spat-app",
+  "version": "0.0.1",
+  "description": "create-spat-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/spat/create-spat-app.git"
+  },
+  "author": "phi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spat/create-spat-app/issues"
+  },
+  "homepage": "https://github.com/spat/create-spat-app#readme"
+}
